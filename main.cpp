@@ -5,7 +5,9 @@ void bubblesort(){
 void quicksort(){
     //
 }
-
+void insertionsort(){
+    
+}
 
 int main(){
     std::cout<<"Hello world";
