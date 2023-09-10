@@ -2,6 +2,9 @@
 void bubblesort(){
     //
 }
+void quicksort(){
+    //
+}
 
 
 int main(){
